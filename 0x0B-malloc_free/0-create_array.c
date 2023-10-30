@@ -6,8 +6,7 @@
  * @size: size of the array
  * @c: character to assign
  *
- * Description: This function creates an array of size 'size' and assigns 'c'
- *              to each element.
+ * Description: This function creates an array of size 'size' and assigns 'c' to each element.
  *
  * Return: Pointer to the array, NULL if it fails
  */
