@@ -2,8 +2,7 @@
 #include <stdlib.h>
 
 /**
- * create_array - creates an array of size 'size' 
-   and assigns 'c' to each element
+ * create_array - creates an array of size 'size' and assigns 'c' to each element
 
  * @size: size of the array
  * @c: character to assign
