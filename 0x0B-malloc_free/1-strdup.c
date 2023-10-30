@@ -6,7 +6,7 @@
  * _strdup - duplicate a string to a new memory
  * @str: string to duplicate
  *
- * Return: Pointer to the duplicated string, 
+ * Return: Pointer to the duplicated string
  */
 char *_strdup(char *str)
 {
